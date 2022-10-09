@@ -1,0 +1,15 @@
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\bin\Debug\net6.0\GauseMethod.exe
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\bin\Debug\net6.0\GauseMethod.deps.json
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\bin\Debug\net6.0\GauseMethod.runtimeconfig.json
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\bin\Debug\net6.0\GauseMethod.dll
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\bin\Debug\net6.0\GauseMethod.pdb
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.csproj.AssemblyReference.cache
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.AssemblyInfoInputs.cache
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.AssemblyInfo.cs
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.dll
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\refint\GauseMethod.dll
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.pdb
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\GauseMethod.genruntimeconfig.cache
+C:\Users\Hermit\source\repos\GauseMethod\GauseMethod\obj\Debug\net6.0\ref\GauseMethod.dll
