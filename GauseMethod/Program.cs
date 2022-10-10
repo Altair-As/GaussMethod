@@ -1,4 +1,6 @@
-﻿namespace GauseMethod
+﻿using System.Diagnostics;
+
+namespace GauseMethod
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         static void Main(string[] args)
         {
             Random random = new Random();
-            float[,] matrix = { { 0, 0, 12, 15 }, { 3, 0, -12, 0 }, { 1, -29, -9, 11 } };
+            float[,] matrix = { { 0, 0, 0, 0 }, { 3, 7, -12, -5 }, { 1, -29, -9, 11 } };
 
             int len = 3;
 
@@ -34,6 +36,15 @@
                 for (int j = 0; j < len + 1; j++)
                 {
                     matrix[maxi, j] = temp[j];
+                }
+            }
+
+            for (int i = 0; i < len; i++)
+            {
+                if (matrix[i, i] == 0)
+                {
+                    Console.WriteLine("System can't be solved using this method");
+                    Process.GetCurrentProcess().Kill();
                 }
             }
 
